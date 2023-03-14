@@ -1,0 +1,8 @@
+C:\Users\Francisco\Documents\GitHub\academiadoprogramador\Robo\Robo\obj\Debug\Robo.csproj.AssemblyReference.cache
+C:\Users\Francisco\Documents\GitHub\academiadoprogramador\Robo\Robo\obj\Debug\Robo.csproj.SuggestedBindingRedirects.cache
+C:\Users\Francisco\Documents\GitHub\academiadoprogramador\Robo\Robo\obj\Debug\Robo.csproj.CoreCompileInputs.cache
+C:\Users\Francisco\Documents\GitHub\academiadoprogramador\Robo\Robo\bin\Debug\Robo.exe.config
+C:\Users\Francisco\Documents\GitHub\academiadoprogramador\Robo\Robo\bin\Debug\Robo.exe
+C:\Users\Francisco\Documents\GitHub\academiadoprogramador\Robo\Robo\bin\Debug\Robo.pdb
+C:\Users\Francisco\Documents\GitHub\academiadoprogramador\Robo\Robo\obj\Debug\Robo.exe
+C:\Users\Francisco\Documents\GitHub\academiadoprogramador\Robo\Robo\obj\Debug\Robo.pdb
