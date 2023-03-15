@@ -25,11 +25,11 @@ namespace Robo
 
             Console.WriteLine("Informe a posição inicial do robo 2");
             String robo2 = Console.ReadLine();
-            int robo2x = Convert.ToInt32(robo1[0]);
-            int robo2y = Convert.ToInt32(robo1[2]);
+            int robo2x = Convert.ToInt32(Convert.ToString(robo2[0]));
+            int robo2y = Convert.ToInt32(Convert.ToString(robo2[2]));
             String robo2d = robo2[4].ToString();
             Console.WriteLine("Informe o comando a ser executado pelo robo 2");
-            String comandoR2 = Console.ReadLine(); 
+            String comandoR2  = Console.ReadLine();
 
             Direcionamento(robo1x, robo1y, comandoR1, robo1d);
             Direcionamento(robo2x, robo2y, comandoR2, robo2d);
