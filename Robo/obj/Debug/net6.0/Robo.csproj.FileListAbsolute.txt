@@ -1,0 +1,15 @@
+C:\Users\Francisco\Documents\GitHub\robo-academia-do-programador\Robo\bin\Debug\net6.0\Robo.exe
+C:\Users\Francisco\Documents\GitHub\robo-academia-do-programador\Robo\bin\Debug\net6.0\Robo.deps.json
+C:\Users\Francisco\Documents\GitHub\robo-academia-do-programador\Robo\bin\Debug\net6.0\Robo.runtimeconfig.json
+C:\Users\Francisco\Documents\GitHub\robo-academia-do-programador\Robo\bin\Debug\net6.0\Robo.dll
+C:\Users\Francisco\Documents\GitHub\robo-academia-do-programador\Robo\bin\Debug\net6.0\Robo.pdb
+C:\Users\Francisco\Documents\GitHub\robo-academia-do-programador\Robo\obj\Debug\net6.0\Robo.csproj.AssemblyReference.cache
+C:\Users\Francisco\Documents\GitHub\robo-academia-do-programador\Robo\obj\Debug\net6.0\Robo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Francisco\Documents\GitHub\robo-academia-do-programador\Robo\obj\Debug\net6.0\Robo.AssemblyInfoInputs.cache
+C:\Users\Francisco\Documents\GitHub\robo-academia-do-programador\Robo\obj\Debug\net6.0\Robo.AssemblyInfo.cs
+C:\Users\Francisco\Documents\GitHub\robo-academia-do-programador\Robo\obj\Debug\net6.0\Robo.csproj.CoreCompileInputs.cache
+C:\Users\Francisco\Documents\GitHub\robo-academia-do-programador\Robo\obj\Debug\net6.0\Robo.dll
+C:\Users\Francisco\Documents\GitHub\robo-academia-do-programador\Robo\obj\Debug\net6.0\refint\Robo.dll
+C:\Users\Francisco\Documents\GitHub\robo-academia-do-programador\Robo\obj\Debug\net6.0\Robo.pdb
+C:\Users\Francisco\Documents\GitHub\robo-academia-do-programador\Robo\obj\Debug\net6.0\Robo.genruntimeconfig.cache
+C:\Users\Francisco\Documents\GitHub\robo-academia-do-programador\Robo\obj\Debug\net6.0\ref\Robo.dll
