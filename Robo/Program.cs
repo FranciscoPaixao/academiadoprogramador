@@ -21,7 +21,6 @@ namespace Robo
             InputRobo(out robo1x, out robo1y, out robo1d, out comandoR1, 1);
             InputRobo(out robo2x, out robo2y, out robo2d, out comandoR2, 2);
 
-
             Direcionamento(robo1x, robo1y, comandoR1, robo1d);
             Direcionamento(robo2x, robo2y, comandoR2, robo2d);
 
@@ -31,10 +30,10 @@ namespace Robo
         private static void InputRobo(out int roboX, out int roboY, out string roboD, out string comando, int roboNumero)
         {
             Console.WriteLine($"Informe a posição inicial do robo {roboNumero}");
-            String robo1 = Console.ReadLine();
-            roboX = Convert.ToInt32(Convert.ToString(robo1[0]));
-            roboY = Convert.ToInt32(Convert.ToString(robo1[2]));
-            roboD = robo1[4].ToString();
+            String robo = Console.ReadLine();
+            roboX = Convert.ToInt32(Convert.ToString(robo[0]));
+            roboY = Convert.ToInt32(Convert.ToString(robo[2]));
+            roboD = robo[4].ToString();
             Console.WriteLine($"Informe o comando a ser executado pelo robo {roboNumero}");
             comando = Console.ReadLine();
         }
